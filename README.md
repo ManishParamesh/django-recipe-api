@@ -103,8 +103,8 @@ Authorization: Bearer <access-token>
 The sample data command creates this demo user:
 
 ```text
-username: chef
-password: testpass123
+username: admin
+password: 123
 ```
 
 ## Filtering Recipes
